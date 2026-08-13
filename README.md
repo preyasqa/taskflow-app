@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TaskFlow Enhancement - TaskFlow Enhancement
 
 Full-stack sample application scaffold (backend + frontend).
@@ -24,3 +25,6 @@ Notes
 - This scaffold is minimal and intended as a starting point. Add tests, Playwright, CI, and deployment as needed.
 
 Created by an AI assistant using Copilot CLI runtime in VS Code.
+=======
+# taskflow-app
+>>>>>>> c8088805139321bfdcf821f55f928f8c1d0adefe
