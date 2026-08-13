@@ -1,0 +1,10 @@
+body{font-family: Arial, Helvetica, sans-serif; padding:20px}
+.auth{max-width:360px;margin:40px auto}
+.auth input{display:block;width:100%;padding:8px;margin:6px 0}
+.auth button{padding:8px 12px}
+.container{max-width:800px;margin:20px auto}
+.top{display:flex;justify-content:space-between;align-items:center}
+.add{display:flex;gap:8px;margin:12px 0}
+.tasks{list-style:none;padding:0}
+.tasks li{padding:8px;border-bottom:1px solid #eee}
+.error{color:#a00}
